@@ -78,5 +78,7 @@ public class Main {
         } else {
             System.out.println("\n>>> " + hero2.getName() + " MENANG!!! <<<");
         }
+
+        System.out.println("Untuk coba commit aja");
     }
 }
